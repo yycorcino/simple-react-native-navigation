@@ -1,4 +1,8 @@
-<td align="center" valign="top"><a href="https://github.com/yycorcino/simple-react-native-navigation/tree/imgs"><img src="https://github.com/yycorcino/simple-react-native-navigation/blob/imgs/login.png"/></a></td>
+<td align="center" valign="top">
+  <a href="https://github.com/yycorcino/simple-react-native-navigation/tree/imgs">
+    <img src="https://github.com/yycorcino/simple-react-native-navigation/blob/imgs/home_tab.png" width="200" height="200" />
+  </a>
+</td>
 
 ### Installation
 
