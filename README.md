@@ -18,7 +18,13 @@ _Quick Steps to Get Project Running._
    ```
    npx expo start -c
    ```
-
    _Start and Clear Cache_
-
+   
+4. Add Supabase Credentials to .env file
+   
+   ```
+   Change .env.example -> .env and fill in required credentials
+   ```
+   _Credentials can be found on Supabase._
+    
 _I used [Supabase Auth](https://supabase.com/docs/guides/auth/quickstarts/react-native) and [Supabase User Management Doc](https://supabase.com/docs/guides/getting-started/tutorials/with-expo-react-native) to help me configure the login._
