@@ -1,53 +1,17 @@
-# Welcome to your Expo app 👋
+<td align="center" valign="top"><a href="https://github.com/yycorcino/simple-react-native-navigation/tree/imgs"><img src="https://github.com/yycorcino/simple-react-native-navigation/blob/imgs/login.png"/></a></td>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Installation
 
-## Get started
+_Quick Steps to Get Project Running._
 
-1. Install dependencies
+1. Run Android Studio and Start [Android Emulator](https://developer.android.com/studio/run/emulator)
 
-   ```bash
-   npm install
+2. Run Project
+
+   ```
+   npx expo start -c
    ```
 
-2. Start the app
+   _Start and Clear Cache_
 
-   ```bash
-    npx expo start
-   ```
-
-followed https://supabase.com/docs/guides/auth/quickstarts/react-native
-
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+_I used [Supabase Auth](https://supabase.com/docs/guides/auth/quickstarts/react-native) and [Supabase User Management Doc](https://supabase.com/docs/guides/getting-started/tutorials/with-expo-react-native) to help me configure the login._
